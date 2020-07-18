@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [Jii](https://www.jioneeu.com/)! 👋
 
-<!--
-**jioneeu/jioneeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/jioneeu">
+  <img align="left" alt="Jione Eu | Twitter" width="23px" src="https://raw.githubusercontent.com/jioneeu/jioneeu/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q">
+  <img align="left" alt="Jione Eu | YouTube" width="23px" src="https://raw.githubusercontent.com/jioneeu/jioneeu/master/assets/youtube.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Hi, I'm Jione Eu (Jii), a self-taught (aspiring) front-end & back-end developer.<br>
+I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a Foreign Language Teacher in elementary school.
+
+🌱 I’m currently learning RoR & Vue.js <br>
+💬 Ask me about anything [here](https://github.com/jioneeu/jioneeu/issues)
+
+![Jii's github stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true)
