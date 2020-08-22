@@ -1,12 +1,7 @@
 ### Hi there, I'm [Jii](https://www.jioneeu.com/)! 👋
 
-<a href="https://twitter.com/jioneeu">
-  <img align="left" alt="Jione Eu | Twitter" width="23px" src="https://raw.githubusercontent.com/jioneeu/jioneeu/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q">
-  <img align="left" alt="Jione Eu | YouTube" width="23px" src="https://raw.githubusercontent.com/jioneeu/jioneeu/master/assets/youtube.png" />
-</a>
+[![Twitter Badge](https://img.shields.io/twitter/url?color=skyblue&label=Twitter&logo=twitter&logoColor=skyblue&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fjioneeu) 
+[![Youtube Bade](https://img.shields.io/twitter/url?color=red&label=YouTube&logo=youtube&logoColor=red&style=flat-square&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC8hY3wjYlK2U9W4fqKN598Q%3Fview_as%3Dsubscriber)](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber)
 
 <br />
 <br />
