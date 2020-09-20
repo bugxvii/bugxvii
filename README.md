@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?color=skyblue&label=Twitter&logo=twitter&logoColor=skyblue&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fjioneeu)](https://www.twitter.com/jioneeu)
 [![Youtube Bade](https://img.shields.io/twitter/url?color=red&label=YouTube&logo=youtube&logoColor=red&style=flat-square&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC8hY3wjYlK2U9W4fqKN598Q%3Fview_as%3Dsubscriber)](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber)
 
-Hi, I'm Jione Eu (Jii), a self-taught (aspiring) front-end & back-end developer.<br>
+Hi, I'm Jione Eu (Jii), a self-taught (aspiring) front-end developer.<br>
 I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a Foreign Language Teacher in elementary schools.
 
 🌱 I’m currently learning RoR & Vue.js & React.js <br>
