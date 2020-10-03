@@ -9,7 +9,7 @@
 
 ### 💡Today I Learned
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Basic Notes](https://jioneeu.github.io/jsbasicnotes)
-- [정보 보안 전문가 1급](https://jioneeu.github.io/ITsecexpert-1)
-- [해킹 보안 전문가 1급](https://jioneeu.github.io/hsecexpert-1)
+- [JavaScript Basic Notes](https://jioneeu.github.io/#/jsbasicnotes)
+- [정보 보안 전문가 1급](https://jioneeu.github.io/#/ITsecexpert-1)
+- [해킹 보안 전문가 1급](https://jioneeu.github.io/#/hsecexpert-1)
 <!-- BLOG-POST-LIST:END -->
