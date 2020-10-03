@@ -1,4 +1,4 @@
-### Hi there, I'm [Jii Eu](https://www.jioneeu.com/)! 👋
+### Hi there, I'm Jii Eu 👋
 
 - 🌱 I’m currently learning: Vue.js and React <br>
 - 👨🏻‍💻 I can speak: 한국어🇰🇷・English🇺🇸 ・日本語🇯🇵 <br>
@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I run a study with me [channel](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber)  <br>
 
 ![Jii's github stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true)
+
+- 📚Blog: https://jioneeu.com
+- ✏️TIL : https://jioneeu-til.com
 
 ### 💡Today I Learned
 <!-- BLOG-POST-LIST:START -->
