@@ -1,7 +1,5 @@
 ### Hi there, I'm [Jii Eu](https://www.jioneeu.com/)! 👋
 
-Korea-born🇰🇷 raised in the States🇺🇸 now working in Japan🇯🇵
-
 - 🌱 I’m currently learning: Vue.js and React <br>
 - 👨🏻‍💻 I can speak: 한국어🇰🇷・English🇺🇸 ・日本語🇯🇵 <br>
 - 📫 How to reach me: [@jioneeu](https://www.twitter.com/jioneeu)<br>
