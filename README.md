@@ -9,7 +9,7 @@
 
 ### 💡Today I Learned
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Basic Notes](https://jioneeu.github.io/#/jsbasicnotes)
-- [정보 보안 전문가 1급](https://jioneeu.github.io/#/ITsecexpert-1)
 - [해킹 보안 전문가 1급](https://jioneeu.github.io/#/hsecexpert-1)
+- [VS Code - Preview markdown](https://jioneeu.github.io/#/vscode-preview-markdown-copy)
+- [Setting up Dev Env in Mac](https://jioneeu.github.io/#/mac-dev-env-setup)
 <!-- BLOG-POST-LIST:END -->
