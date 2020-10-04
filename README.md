@@ -5,17 +5,12 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 ![Drawing](./asa.jpg)
 
 #### 🌱 Learning
-- Vue.js
-- React 
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 - IT Security / Ethical Hacking
 - Network fundamentals
 
-![Jii's github stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true)
-
-#### 📫 Social
-- [Twitter](https://www.twitter.com/jioneeu)
-- [YouTube - Study with me](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber)  <br>
-- [Instagram - Drawing](https://www.instagram.com/jiidraws/)
+#### 📫 Social 
+[![Twitter](https://img.shields.io/badge/jioneeu%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jioneeu) [![YouTube](https://img.shields.io/badge/JioneEu%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)]((https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber)) [![Instagram](https://img.shields.io/badge/Jiidraws%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jiidraws/) [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jioneeu/)
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
@@ -23,3 +18,12 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 - [해킹 보안 전문가 1급](https://jioneeu-til.com/#/hsecexpert-1)
 - [VS Code - Preview markdown](https://jioneeu-til.com/#/vscode-preview-markdown-copy)
 <!-- BLOG-POST-LIST:END -->
+
+<table cellspacing="0" cellpadding="0" style="border: none">
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true" style="float: left" />
+  </td>
+  <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu" style="float: right"/>
+  </td>
+</table>
