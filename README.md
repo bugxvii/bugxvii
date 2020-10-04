@@ -12,7 +12,7 @@
 
 ### 💡Today I Learned
 <!-- BLOG-POST-LIST:START -->
-- [해킹 보안 전문가 1급](http://jioneeu-til.com/#/hsecexpert-1)
-- [VS Code - Preview markdown](http://jioneeu-til.com/#/vscode-preview-markdown-copy)
-- [Setting up Dev Env in Mac](http://jioneeu-til.com/#/mac-dev-env-setup)
+- [GitHub - Custom Domain](https://jioneeu-til.com/#/gitpage-custom-domain)
+- [해킹 보안 전문가 1급](https://jioneeu-til.com/#/hsecexpert-1)
+- [VS Code - Preview markdown](https://jioneeu-til.com/#/vscode-preview-markdown-copy)
 <!-- BLOG-POST-LIST:END -->
