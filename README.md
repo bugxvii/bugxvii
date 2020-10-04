@@ -17,6 +17,6 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 - [VS Code - Preview markdown](https://jioneeu-til.com/#/vscode-preview-markdown-copy)
 <!-- BLOG-POST-LIST:END -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)](https://github.com/jioneeu/github-readme-stats) 
+![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
 
 
