@@ -13,3 +13,4 @@ jobs:
         with:
           feed_list: "https://jioneeu.github.io/feed"
           max_post_count: 3
+          readme_path: './README.md'
