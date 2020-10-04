@@ -13,8 +13,8 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
 - [GitHub - Custom Domain](https://jioneeu-til.com/#/gitpage-custom-domain)
+- [I’m an early bird? owl?](https://jioneeu-til.com/#/productive-box)
 - [해킹 보안 전문가 1급](https://jioneeu-til.com/#/hsecexpert-1)
-- [VS Code - Preview markdown](https://jioneeu-til.com/#/vscode-preview-markdown-copy)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
