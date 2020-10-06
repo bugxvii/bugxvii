@@ -12,7 +12,7 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
-- [TOP 1: Objects and Object Constructors](https://jioneeu-til.com/#/top-js-1)
+- [TOP 1: Objects, Constructors, and Protoype](https://jioneeu-til.com/#/top-js-1)
 - [GitHub - Custom Domain](https://jioneeu-til.com/#/gitpage-custom-domain)
 - [I’m an early bird? owl?](https://jioneeu-til.com/#/productive-box)
 <!-- BLOG-POST-LIST:END -->
