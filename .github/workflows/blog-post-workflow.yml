@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
+        env:
+          TIMEZONE: Asia/Tokyo
         with:
           feed_list: "https://jioneeu.github.io/feed"
           max_post_count: 3
