@@ -13,8 +13,8 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
 - [TOP 1: Objects, Constructors, and Protoype](https://jioneeu-til.com/#/top-js-1)
+- [TOP 2: Prototypal Inheritance](https://jioneeu-til.com/#/top-js-2)
 - [GitHub - Custom Domain](https://jioneeu-til.com/#/gitpage-custom-domain)
-- [I’m an early bird? owl?](https://jioneeu-til.com/#/productive-box)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
