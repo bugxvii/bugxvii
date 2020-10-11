@@ -14,5 +14,5 @@ jobs:
           TIMEZONE: Asia/Tokyo
         with:
           feed_list: "https://jioneeu.github.io/feed"
-          max_post_count: 5
+          max_post_count: 4
           readme_path: './README.md'
