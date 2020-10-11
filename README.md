@@ -16,7 +16,6 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 - [TOP #3: Prototypal Inheritance Recommeded Method](https://jioneeu-til.com/#/top-js-3)
 - [TOP #2: Prototypal Inheritance using __proto__](https://jioneeu-til.com/#/top-js-2)
 - [TOP #1: Objects, Constructors, and Protoype](https://jioneeu-til.com/#/top-js-1)
-- [GitHub - Custom Domain](https://jioneeu-til.com/#/gitpage-custom-domain)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
