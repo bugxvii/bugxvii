@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
+- [localStorage](https://jioneeu-til.com/#/localstorage)
 - [Capturing the right-click event](https://jioneeu-til.com/#/capture-right-click)
 - [Complexity Analysis](https://jioneeu-til.com/#/complexity-analysis)
 - [Card effect with CSS](https://jioneeu-til.com/#/card-effect)
-- [Disable Selection + Click &amp; Check tagName in EventTarget](https://jioneeu-til.com/#/disable-selection-tagname)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
