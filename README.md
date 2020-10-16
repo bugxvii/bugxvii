@@ -13,9 +13,9 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
 - [Double-ended Queue in Array](https://jioneeu-til.com/#/deque-array)
+- [Implement a queue using two stacks](https://jioneeu-til.com/#/queue-using-stacks)
 - [Queue in Array](https://jioneeu-til.com/#/queue-array)
 - [Stack in Array](https://jioneeu-til.com/#/stack-array)
-- [localStorage](https://jioneeu-til.com/#/localstorage)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
