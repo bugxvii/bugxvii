@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
+- [Euclidean Distance](https://jioneeu-til.com/#/euclidean-distance)
+- [Manhattan Distance](https://jioneeu-til.com/#/manhattan-distance)
 - [Find all divisors of a natural number](https://jioneeu-til.com/#/divisor)
 - [Implement a stack using two queues](https://jioneeu-til.com/#/stack-using-queues)
-- [Double-ended Queue in Array](https://jioneeu-til.com/#/deque-array)
-- [Implement a queue using two stacks](https://jioneeu-til.com/#/queue-using-stacks)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
