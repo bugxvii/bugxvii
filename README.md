@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
+- [What is Linked List?](https://jioneeu-til.com/#/linkedlist-basic)
 - [Chebyshev Distance](https://jioneeu-til.com/#/chebyshev-distance)
 - [Euclidean Distance](https://jioneeu-til.com/#/euclidean-distance)
 - [Manhattan Distance](https://jioneeu-til.com/#/manhattan-distance)
-- [Find all divisors of a natural number](https://jioneeu-til.com/#/divisor)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jioneeu&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jioneeu&layout=compact)
