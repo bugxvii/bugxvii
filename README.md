@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
+- [Firebase setTimeout](https://jioneeu-til.com/#/firebase-settimeout)
+- [Firebase Setup + DB + Storage](https://jioneeu-til.com/#/firebase-setup)
 - [Implement a Stack using a Singly Linked List](https://jioneeu-til.com/#/stack-sll)
 - [What is Linked List?](https://jioneeu-til.com/#/linkedlist-basic)
-- [Chebyshev Distance](https://jioneeu-til.com/#/chebyshev-distance)
-- [Euclidean Distance](https://jioneeu-til.com/#/euclidean-distance)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bugxvii&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugxvii&layout=compact)
