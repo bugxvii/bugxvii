@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
+- [Inserting an element into an array at specefic index](https://jioneeu-til.com/#/array-insert)
 - [Proper way to divide an integer by 10](https://jioneeu-til.com/#/divide-integer-by-10)
 - [C++ map vs. unordered map](https://jioneeu-til.com/#/map-vs-unordered-map)
 - [Sort numbers in an array](https://jioneeu-til.com/#/sort-int-array)
-- [Firebase setTimeout](https://jioneeu-til.com/#/firebase-settimeout)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bugxvii&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugxvii&layout=compact)
