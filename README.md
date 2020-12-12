@@ -12,10 +12,10 @@ I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japa
 
 #### 📚Today I Learned
 <!-- BLOG-POST-LIST:START -->
-- [MySQL - Update and Delete Data](https://jioneeu-til.com/#/mysql-basic-4)
-- [MySQL - Read data](https://jioneeu-til.com/#/mysql-basic-3)
-- [MySQL - Create a new table and insert a data](https://jioneeu-til.com/#/mysql-basic-2)
-- [MySQL - DATABASE basic commands](https://jioneeu-til.com/#/mysql-basic-1)
+- [Copy strings to the clipboard](https://jioneeu-til.com/copy-clipboard)
+- [Split a number from a string](https://jioneeu-til.com/split-a-number-from-string)
+- [MySQL - Update and Delete Data](https://jioneeu-til.com/mysql-basic-4)
+- [MySQL - Read data](https://jioneeu-til.com/mysql-basic-3)
 <!-- BLOG-POST-LIST:END -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bugxvii&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugxvii&layout=compact)
