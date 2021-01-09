@@ -1,4 +1,4 @@
-### Hi there, I'm Jione 👋 
+### Hi there, I'm Jii 👋 
 
 I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a Foreign Language Teacher. <br>
 
