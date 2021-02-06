@@ -15,4 +15,4 @@
 [𝚈𝚘𝚞𝚃𝚞𝚋𝚎](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber) | 
 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/jioneeu/)
 
-![stats](https://github-readme-stats.vercel.app/api?username=bugxvii&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugxvii&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=eubug17&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubug17&layout=compact)
