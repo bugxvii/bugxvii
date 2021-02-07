@@ -1,6 +1,6 @@
 I'm Jii Eu (a.k.a. Eubug).
 
-I was born in Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a language teacher in number of elementary schools. 
+I was born in S.Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a language teacher in number of elementary schools. 
 
 ![Drawing](./asa.jpg)
 
