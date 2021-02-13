@@ -15,4 +15,4 @@ Ruby <br />
 [YouTube](https://www.youtube.com/channel/UC8hY3wjYlK2U9W4fqKN598Q?view_as=subscriber) | 
 [LinkedIn](https://www.linkedin.com/in/jiieu/)
 
-![stats](https://github-readme-stats.vercel.app/api?username=eubug17&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eubug17&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=imeubug&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeubug&layout=compact)
