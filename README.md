@@ -1,6 +1,6 @@
 I'm Eubug.
 
-I was born in S.Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a language teacher in multiple elementary schools. 
+I was born in S.Korea🇰🇷 raised in the States🇺🇸 and now working in Japan🇯🇵 as a junior frontend developer. 
 
 ![Drawing](./asa.jpg)
 
