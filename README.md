@@ -19,6 +19,6 @@
 
 <div align='center'>
   <h3>About Me 👋</h3>
-  <img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=jekyll&logoColor=white"/>
+  <a href="https://www.ipflegen.com"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=jekyll&logoColor=white"/></a>
   <a href="https://www.instagram.com/jiidraws/"><img src="https://img.shields.io/badge/Drawing-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </div>
