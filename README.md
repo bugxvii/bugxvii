@@ -19,7 +19,6 @@
 <div align='center'>
   <h3>Reach me 👋</h3>
   <a href="https://www.linkedin.com/in/eujii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ipflegen" style="cursor: pointer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.twitter.com/ipflegen/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a><br />
+  <a href="https://www.twitter.com/ipflegen/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="mailto: ipflegen@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white"/></a>
 </div>
