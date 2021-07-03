@@ -24,6 +24,9 @@
 <div align="center">
 <h3>📔 Blog Posts ✍️</h3>
 <!-- BLOG-POST-LIST:START -->
+- [[1차] 다트 게임](https://www.jiieu.com/ps/programmers/17682/)
+- [직사각형 별찍기](https://www.jiieu.com/ps/programmers/12969/)
+- [x만큼 간격이 있는 n개의 숫자](https://www.jiieu.com/ps/programmers/12954/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
