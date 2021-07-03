@@ -21,15 +21,6 @@
   <a href="#"><img src="https://img.shields.io/badge/^%20Techs that I've used before%20^-f5f5f5?style=flat-square"/></a>
 </div>
 
-<div align="center">
-<h3>📔 Blog Posts ✍️</h3>
-<!-- BLOG-POST-LIST:START -->
-- [[1차] 다트 게임](https://www.jiieu.com/ps/programmers/17682/)
-- [직사각형 별찍기](https://www.jiieu.com/ps/programmers/12969/)
-- [x만큼 간격이 있는 n개의 숫자](https://www.jiieu.com/ps/programmers/12954/)
-<!-- BLOG-POST-LIST:END -->
-</div>
-
 <div align='center'>
   <h3>🐱 Reach Me 🐱</h3>
   <a href="https://www.jiieu.com"><img src="https://img.shields.io/badge/Tech%20Blog-CC0000?style=flat-square&logo=jekyll&logoColor=white&link=https://www.jiieu.com"/></a>
