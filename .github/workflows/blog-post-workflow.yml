@@ -13,6 +13,6 @@ jobs:
         env:
           TIMEZONE: Asia/Tokyo
         with:
-          feed_list: "https://bugxvii.github.io/feed"
-          max_post_count: 4
+          feed_list: "https://www.jiieu.com/feed.xml"
+          max_post_count: 3
           readme_path: './README.md'
